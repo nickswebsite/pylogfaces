@@ -1,0 +1,13 @@
+*.py[ocd]
+
+dist/
+*.egg-info/
+build/
+
+u/
+v/
+w/
+x/
+y/
+z/
+
